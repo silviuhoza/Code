@@ -58,6 +58,7 @@ body{
   
   .bottom h1{
     color:#FDAB00;
+    #58FFFFFF
   }
   
   .top{
@@ -76,7 +77,7 @@ body{
     position: absolute;
     height: 100%;
     display: block;
-    background-color: #FDAB00;
+    background-color: #9EBF0;
     width:5px;
     top:0;
     left: 50%;
